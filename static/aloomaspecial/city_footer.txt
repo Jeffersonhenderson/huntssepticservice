@@ -1,0 +1,45 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">How do I know what kind of porta potty my event needs?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Think about your guests. For a rugged, informal event, our Neighborhood Essential is perfect. For an event where you want to show more care (like for families or older guests), the Courteous Plus is a great choice. For a luxury experience, the Ambassador Suite is the only answer.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your units actually clean? What’s your process?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. This is our obsession. Every unit is power-washed, sanitized, and deodorized between rentals. We use a multi-point checklist to ensure it’s delivered in pristine condition, fully stocked and ready to go.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the real porta potty rental cost per day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The porta potty price depends on the model you choose, how long you need it, and your location. A basic one day portable toilet rental is our most affordable option. We provide clear, all-inclusive quotes with no hidden fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;">I’m planning a wedding. Is a porta potty at a wedding tacky?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Not when it's done right. A "tacky" porta potty is one that's dirty and an afterthought. Our Courteous Plus units or our luxury portable bathroom rental trailers are designed to be so clean and comfortable that they become a positive, seamless part of the guest experience.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
